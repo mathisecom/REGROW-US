@@ -12,9 +12,11 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
+        "image_a7WGj8": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BANNER_PC_17.jpg",
+            "mobile_image": "shopify://shop_images/BANNER_MOBILE_55.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -22,7 +24,7 @@
             "title": "",
             "heading_tag": "h0",
             "button_text": "",
-            "button_link": "",
+            "button_link": "shopify://products/alphalab-infusion",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
@@ -34,64 +36,696 @@
         }
       },
       "block_order": [
-        "slide-1"
+        "image_a7WGj8"
       ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "show_initial_transition": false,
         "image_size": "auto",
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
-        "autoplay": false,
+        "autoplay": true,
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "faq": {
-      "type": "faq",
+    "multi_column_9eBj4g": {
+      "type": "multi-column",
       "blocks": {
-        "166442457738b23caf-0": {
+        "item_BdNETk": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "image": "shopify://shop_images/Titre_38.jpg",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "166442457738b23caf-1": {
+        "item_aVXQxM": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "image": "shopify://shop_images/Titre_37.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "166442457738b23caf-2": {
+        "item_rqG3tF": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "image": "shopify://shop_images/Titre_39.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Pm669W": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2025-03-20T161232.693.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "item_BdNETk",
+        "item_aVXQxM",
+        "item_rqG3tF",
+        "item_Pm669W"
       ],
-      "disabled": true,
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "Over 6,000 Men Conquered by AlphaLAB",
+        "title": "The Most Impressive Transformations from Our Customers",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "press_kkMjbk": {
+      "type": "press",
+      "blocks": {
+        "quote_33dPFk": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "David R.",
+            "content": "After 3 months, my hairline has thickened and the thinning areas have become almost invisible. Today, my hair is denser and I feel younger.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_mmnwGg": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "James A.",
+            "content": "My thinning temples have noticeably filled in. People around me say I look healthier and more confident.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_Pidq8r": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Ethan P.",
+            "content": "I was skeptical at first, but after 3 months, my hair has truly gained density. I’m no longer embarrassed to style it.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_qhWzTr": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Dylan J.",
+            "content": "My hair volume gradually returned. Today, my hair looks thicker, shinier, and I feel rejuvenated.",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "quote_33dPFk",
+        "quote_mmnwGg",
+        "quote_Pidq8r",
+        "quote_qhWzTr"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "scrolling_text_aY866B": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "The Fast Solution for Hair Loss.",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#1b2c31",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
+    "media_with_text_zeQcEU": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_9BrAMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Titre_91.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Regain thick, healthy, and vibrant hair",
+            "content": "<p><strong>Don’t let hair loss steal your confidence.</strong></p><p>Thanks to Micro-Infusion technology, ALPHALAB™ targets the root of the problem by neutralizing DHT and stimulating natural regrowth.</p><p><strong>Result: </strong>thicker, stronger, and visibly younger-looking hair in just a few weeks.</p>",
+            "link_text": "DISCOVER",
+            "link_url": "shopify://products/alphalab-infusion",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1b2c31",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_9BrAMq"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "multi_column_hzHXDp": {
+      "type": "multi-column",
+      "blocks": {
+        "item_hTfKwW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_50.webp",
+            "column_size": "4",
+            "title": "Eclipta Prostrata Extract",
+            "heading_tag": "h4",
+            "content": "<p>Stimulates follicle regeneration and prolongs the hair growth cycle, even outperforming Minoxidil.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zqi4ap": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_51.webp",
+            "column_size": "4",
+            "title": "Panax Ginseng",
+            "heading_tag": "h4",
+            "content": "<p>Eliminates DHT to promote the growth of healthy hair.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6cjfCd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_52.webp",
+            "column_size": "4",
+            "title": "Peppermint Oil & Ginger Extract",
+            "heading_tag": "h4",
+            "content": "<p>Nourish the scalp and improve circulation for stronger, thicker hair.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3D7bQR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_53.webp",
+            "column_size": "4",
+            "title": "Rosemary Leaf Extract",
+            "heading_tag": "h4",
+            "content": "<p>A natural alternative to Minoxidil, effective against androgenetic alopecia.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_hTfKwW",
+        "item_zqi4ap",
+        "item_6cjfCd",
+        "item_3D7bQR"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "Formulated with High-Quality Ingredients",
+        "title": "Active Ingredients",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_JBcihk": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_QNgN9w": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gempages_586978430721983033-1e43dd67-3f67-47ca-bec1-2d0bc8c31f0c.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Recommended by Experts",
+            "content": "<p>Hair care professionals trust AlphaLAB™ for its clinically proven effectiveness.</p>",
+            "link_text": "DISCOVER",
+            "link_url": "shopify://products/alphalab-infusion",
+            "background": "#1b2c31",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#ffffff",
+            "button_text_color": "#1b2c31"
+          }
+        }
+      },
+      "block_order": [
+        "image_QNgN9w"
+      ],
+      "name": "Media with text",
       "settings": {
         "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "rich_text_hXVkCA": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_PBHeDT": {
+          "type": "subheading",
+          "settings": {
+            "text": "They Testify to Its Effectiveness"
+          }
+        },
+        "heading_hBqHhM": {
+          "type": "heading",
+          "settings": {
+            "text": "Over 6,000 Men Convinced",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PBHeDT",
+        "heading_hBqHhM"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_GDdzUY": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_46pFFE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_90_copie.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Rfi8JL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_92.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_rQmBhH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_90_copie_2.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_3mCcTa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_91_3d148101-b2c7-4050-a260-5c10568d3397.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_qzNDcK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_93.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_tAyzRa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_90_copie_5.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_46pFFE",
+        "item_Rfi8JL",
+        "item_rQmBhH",
+        "item_3mCcTa",
+        "item_qzNDcK",
+        "item_tAyzRa"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "testimonials_EnWTWp": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_UrnYNM": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Highly recommend this treatment",
+            "content": "<p>My fine, fragile hair has transformed into thick, healthy hair. It’s the first time in years that I feel confident with my hair.</p>"
+          }
+        },
+        "testimonial_YyW6F6": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "David Reynolds",
+            "title": "I’m amazed!",
+            "content": "<p>I noticed a real difference from the first month. My hair falls out much less and grows faster—I’m really impressed!</p>"
+          }
+        },
+        "testimonial_w6T7Xh": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "James Anderson",
+            "title": "Finally hair full of life!",
+            "content": "<p>After only 6 weeks, my hair is much thicker and stronger. I finally have hair full of vitality!</p>"
+          }
+        },
+        "testimonial_F6CXY9": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Ryan Mitchell",
+            "title": "A change I no longer expected",
+            "content": "<p>My thinning areas are gradually filling in, and my hair has regained shine and vitality. I never expected such results.</p>"
+          }
+        },
+        "testimonial_MiDzAB": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Ethan P.",
+            "title": "The results are incredible!",
+            "content": "<p>My hair is stronger, denser, and visibly younger. I highly recommend this treatment without hesitation.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_UrnYNM",
+        "testimonial_YyW6F6",
+        "testimonial_w6T7Xh",
+        "testimonial_F6CXY9",
+        "testimonial_MiDzAB"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "#f2f8f9",
+        "testimonial_card_text_color": "#1b2c31"
+      }
+    },
+    "faq_erAwk6": {
+      "type": "faq",
+      "blocks": {
+        "item_eF6QxV": {
+          "type": "item",
+          "settings": {
+            "title": "When will I start to see results?",
+            "content": "<p>Many users notice a significant improvement in hair texture and growth after 3–5 weeks of regular use. Results may vary depending on the individual.</p>"
+          }
+        },
+        "item_zY3XrH": {
+          "type": "item",
+          "settings": {
+            "title": "Do the micro-needles leave marks?",
+            "content": "<p>No, the product does not leave marks or redness. The needles are ultra-fine (0.5 mm), designed to be gentle and painless while ensuring effective serum delivery to the scalp.</p>"
+          }
+        },
+        "item_UViqpP": {
+          "type": "item",
+          "settings": {
+            "title": "How often should I use it?",
+            "content": "<p>For best results, use once per week. This allows the roots time to respond and regenerate between sessions. Our highly concentrated formula, combined with the micro-infusion system, delivers ingredients directly to the roots — where real hair regrowth occurs.</p>"
+          }
+        },
+        "item_CTLhUM": {
+          "type": "item",
+          "settings": {
+            "title": "Will I lose my results if I stop using it?",
+            "content": "<p>Once DHT levels are reduced, the scalp detoxified, and new hair grown, it can take several months or even years for DHT to accumulate again.</p>"
+          }
+        },
+        "item_PYwNpL": {
+          "type": "item",
+          "settings": {
+            "title": "Can you tell me more about the application process?",
+            "content": "<p>Application is quick: less than a minute. Simply apply the product to the targeted areas and let it absorb.</p>"
+          }
+        },
+        "item_TCAcap": {
+          "type": "item",
+          "settings": {
+            "title": "Is it safe to use?",
+            "content": "<p>Totally painless, with no marks or redness. The ultra-fine 0.5 mm needles ensure safe and gentle use.</p>"
+          }
+        },
+        "item_yKkJEe": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Absolutely! The system is non-invasive, painless, and dermatologist-tested for safe at-home use.</p>"
+          }
+        },
+        "item_FW4TRN": {
+          "type": "item",
+          "settings": {
+            "title": "Is it suitable for all hair types?",
+            "content": "<p>Yes, the AlphaInfuse system works on all hair types and textures.</p>"
+          }
+        },
+        "item_XBAcgX": {
+          "type": "item",
+          "settings": {
+            "title": "Is it free of chemicals?",
+            "content": "<p>Yes, it is formulated only with natural, high-quality ingredients, without synthetic chemicals.</p>"
+          }
+        },
+        "item_xzqEBt": {
+          "type": "item",
+          "settings": {
+            "title": "Is it painful?",
+            "content": "<p>No, the sensation feels like a gentle tap of a fingernail on the skin — completely painless.</p>"
+          }
+        },
+        "item_irQb4A": {
+          "type": "item",
+          "settings": {
+            "title": "I’ve tried many products without success. What makes yours different?",
+            "content": "<p>Most products fail because they only deposit ingredients on the scalp surface, where they don’t act. Real regrowth requires delivering the formula deep to the roots, where hair loss starts.</p>"
+          }
+        },
+        "item_TzURxk": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "What is the needle size?",
+            "content": "<p>Our micro-infusion technology ensures maximum absorption, while a powerful blend of licorice root, black sesame, and ginger extracts blocks DHT, detoxifies the scalp, and reactivates dormant follicles. That’s why our product works where others fail.</p>"
+          }
+        },
+        "item_VjR4ht": {
+          "type": "item",
+          "settings": {
+            "title": "What is the needle size?",
+            "content": "<p>The ultra-fine needles of the AlphaInfuse system measure 0.5 mm. They are designed to be gentle and painless while ensuring effective serum delivery to the scalp.</p>"
+          }
+        },
+        "item_EpgkUT": {
+          "type": "item",
+          "settings": {
+            "title": "Can I use it on a sensitive scalp?",
+            "content": "<p>Yes, the 24K gold ultra-fine needles provide a painless application, and the formula is free from harsh chemicals, making it safe for sensitive scalps.</p>"
+          }
+        },
+        "item_iYqRbU": {
+          "type": "item",
+          "settings": {
+            "title": "Can I incorporate it into my current hair care routine?",
+            "content": "<p>Yes, it can be used alongside your regular hair care products.</p>"
+          }
+        },
+        "item_dqtdVj": {
+          "type": "item",
+          "settings": {
+            "title": "Ingredients",
+            "content": "<p><strong>Ingredients: </strong>Menthol, Peppermint Oil (Mentha Piperita), Panax Ginseng Root Extract, Anemarrhena Asphodeloides Root Extract, Ginger Root Extract (Zingiber Officinale), Rosemary Oil, Black Sesame Extract, Licorice Root Extract, Angelica Polymorpha Sinensis Root Extract, Citric Acid, Platycladus Orientalis Leaf Extract, Sophora Flavescens Extract, Biota Orientalis Leaf Extract, Polygonum Multiflorum Root Extract, Eclipta Prostrata Extract, Cinchona Pubescens Bark Extract</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_eF6QxV",
+        "item_zY3XrH",
+        "item_UViqpP",
+        "item_CTLhUM",
+        "item_PYwNpL",
+        "item_TCAcap",
+        "item_yKkJEe",
+        "item_FW4TRN",
+        "item_XBAcgX",
+        "item_xzqEBt",
+        "item_irQb4A",
+        "item_TzURxk",
+        "item_VjR4ht",
+        "item_EpgkUT",
+        "item_iYqRbU",
+        "item_dqtdVj"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Frequently Asked Questions",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "support_hours": "",
         "answer_time": "Average answer time: 24h",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
+        "text_position": "center",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -105,6 +739,15 @@
   },
   "order": [
     "slideshow",
-    "faq"
+    "multi_column_9eBj4g",
+    "press_kkMjbk",
+    "scrolling_text_aY866B",
+    "media_with_text_zeQcEU",
+    "multi_column_hzHXDp",
+    "media_with_text_JBcihk",
+    "rich_text_hXVkCA",
+    "image_link_blocks_GDdzUY",
+    "testimonials_EnWTWp",
+    "faq_erAwk6"
   ]
 }
