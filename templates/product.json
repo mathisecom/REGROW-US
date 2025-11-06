@@ -140,6 +140,7 @@
         "item_weGDDr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2025-03-20T161232.693.webp",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
