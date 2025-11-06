@@ -15,7 +15,7 @@
         "liquid_xVRQ7C": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_Bij9WM\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <div class=\"product-info__block-item\" data-block-id=\"liquid_7xXm48\" data-block-type=\"liquid\">\n      <div class=\"product-info__liquid\">\n        <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <style>\n              .badges-container {\n                display: flex;\n                gap: 6px; /* Space between badges */\n                align-items: center;\n                margin-bottom: 20px; /* Add space below */\n              }\n\n              .badge {\n                display: inline-block;\n                padding: 4px 10px;\n                font-size: 12px;\n                font-weight: bold;\n                color: white;\n                background: #2d4147; /* New color */\n                border-radius: 15px;\n                text-transform: uppercase;\n                white-space: nowrap;\n              }\n            </style>\n\n            <div class=\"badges-container\">\n              <div class=\"badge\">BEST SELLER</div>\n              <div class=\"badge\">AUTUMN OFFER: -50%</div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_Bij9WM\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <div class=\"product-info__block-item\" data-block-id=\"liquid_7xXm48\" data-block-type=\"liquid\">\n      <div class=\"product-info__liquid\">\n        <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <style>\n              .badges-container {\n                display: flex;\n                gap: 6px; /* Space between badges */\n                align-items: center;\n                margin-bottom: 20px; /* Add space below */\n              }\n\n              .badge {\n                display: inline-block;\n                padding: 4px 10px;\n                font-size: 12px;\n                font-weight: bold;\n                color: white;\n                background: #2d4147; /* New color */\n                border-radius: 15px;\n                text-transform: uppercase;\n                white-space: nowrap;\n              }\n            </style>\n\n            <div class=\"badges-container\">\n              <div class=\"badge\">BEST SELLER</div>\n              <div class=\"badge\">BLACK FRIDAY: -50%</div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
         },
         "title": {
@@ -140,7 +140,6 @@
         "item_weGDDr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_38.jpg",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -279,7 +278,6 @@
         "image_b4bPHL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Titre_91.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -315,7 +313,6 @@
         "item_8fCCTc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_15.webp",
             "column_size": "3",
             "title": "Prepare the Scalp",
             "heading_tag": "h4",
@@ -328,7 +325,6 @@
         "item_mJixX9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_17.webp",
             "column_size": "3",
             "title": "Apply the Serum",
             "heading_tag": "h4",
@@ -341,7 +337,6 @@
         "item_EjQ9yD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_18.webp",
             "column_size": "3",
             "title": "Let It Work & Repeat",
             "heading_tag": "h4",
@@ -394,7 +389,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Titre_11.webp",
             "mobile_icon_width": 40,
             "icon_width": 40,
             "icon_background_type": "circle",
@@ -408,7 +402,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Titre_12.webp",
             "mobile_icon_width": 40,
             "icon_width": 40,
             "icon_background_type": "circle",
@@ -422,7 +415,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Titre_14.webp",
             "mobile_icon_width": 40,
             "icon_width": 40,
             "icon_background_type": "circle",
@@ -436,7 +428,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Titre_13.webp",
             "mobile_icon_width": 40,
             "icon_width": 40,
             "icon_background_type": "circle",
@@ -472,7 +463,6 @@
         "image_ePjp8B": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ezgif.com-optimize_55.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -547,7 +537,6 @@
         "item_g8mBRA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_53.webp",
             "column_size": "4",
             "title": "Rosemary Leaf Extract",
             "heading_tag": "h4",
@@ -584,7 +573,6 @@
         "image_hN7wqL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Titre_93_0c9a7440-976a-4d00-a3ba-e3025ed8c6b8.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -689,7 +677,6 @@
         "item_pqbKLc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_90_copie_076f9d8d-b4cb-45dd-b17f-704913a209c3.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -702,7 +689,6 @@
         "item_Rqcqty": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_91_f70ad014-e3b7-4ebb-b460-80847446d483.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -715,7 +701,6 @@
         "item_mBxfAq": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_92_b2a6c369-3344-46eb-855f-1be6549362a1.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -728,7 +713,6 @@
         "item_CEirki": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_93_0afa99f1-0756-4112-88e4-1c24cd0536aa.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -741,7 +725,6 @@
         "item_D6N4hr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_90_copie_2.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
