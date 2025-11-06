@@ -486,5 +486,10 @@
       "one": "1 result for \"{{ terms }}\"",
       "other": "{{ count }} results for \"{{ terms }}\""
     }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " "
+    }
   }
 }
