@@ -314,6 +314,7 @@
         "item_8fCCTc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_15.avif",
             "column_size": "3",
             "title": "Prepare the Scalp",
             "heading_tag": "h4",
@@ -338,6 +339,7 @@
         "item_EjQ9yD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_18.avif",
             "column_size": "3",
             "title": "Let It Work & Repeat",
             "heading_tag": "h4",
@@ -390,6 +392,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Titre_11.avif",
             "mobile_icon_width": 40,
             "icon_width": 40,
             "icon_background_type": "circle",
@@ -403,6 +406,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Titre_12.avif",
             "mobile_icon_width": 40,
             "icon_width": 40,
             "icon_background_type": "circle",
@@ -416,6 +420,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Titre_14.avif",
             "mobile_icon_width": 40,
             "icon_width": 40,
             "icon_background_type": "circle",
@@ -429,6 +434,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Titre_13.avif",
             "mobile_icon_width": 40,
             "icon_width": 40,
             "icon_background_type": "circle",
