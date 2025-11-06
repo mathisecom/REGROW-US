@@ -392,6 +392,7 @@
         "item_46pFFE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_52.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -404,6 +405,7 @@
         "item_Rfi8JL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_54.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -416,6 +418,7 @@
         "item_rQmBhH": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_55.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -428,6 +431,7 @@
         "item_3mCcTa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_56.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
