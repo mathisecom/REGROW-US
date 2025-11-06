@@ -544,6 +544,7 @@
         "item_g8mBRA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_54.webp",
             "column_size": "4",
             "title": "Rosemary Leaf Extract",
             "heading_tag": "h4",
