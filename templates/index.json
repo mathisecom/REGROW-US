@@ -57,7 +57,6 @@
         "item_BdNETk": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_38.jpg",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -70,7 +69,6 @@
         "item_aVXQxM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_37.webp",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -83,7 +81,6 @@
         "item_rqG3tF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_39.webp",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -96,7 +93,6 @@
         "item_Pm669W": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_-_2025-03-20T161232.693.webp",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -212,7 +208,6 @@
         "image_9BrAMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Titre_91.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -248,7 +243,6 @@
         "item_hTfKwW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_50.webp",
             "column_size": "4",
             "title": "Eclipta Prostrata Extract",
             "heading_tag": "h4",
@@ -261,7 +255,6 @@
         "item_zqi4ap": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_51.webp",
             "column_size": "4",
             "title": "Panax Ginseng",
             "heading_tag": "h4",
@@ -274,7 +267,6 @@
         "item_6cjfCd": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_52.webp",
             "column_size": "4",
             "title": "Peppermint Oil & Ginger Extract",
             "heading_tag": "h4",
@@ -287,7 +279,6 @@
         "item_3D7bQR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_53.webp",
             "column_size": "4",
             "title": "Rosemary Leaf Extract",
             "heading_tag": "h4",
@@ -324,7 +315,6 @@
         "image_QNgN9w": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/gempages_586978430721983033-1e43dd67-3f67-47ca-bec1-2d0bc8c31f0c.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -393,7 +383,6 @@
         "item_46pFFE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_90_copie.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -406,7 +395,6 @@
         "item_Rfi8JL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_92.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -419,7 +407,6 @@
         "item_rQmBhH": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_90_copie_2.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -432,7 +419,6 @@
         "item_3mCcTa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_91_3d148101-b2c7-4050-a260-5c10568d3397.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -445,7 +431,6 @@
         "item_qzNDcK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_93.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -458,7 +443,6 @@
         "item_tAyzRa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Titre_90_copie_5.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
