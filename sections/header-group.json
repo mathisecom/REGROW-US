@@ -27,11 +27,19 @@
             "text": "100% Secure Payment",
             "url": ""
           }
+        },
+        "message_TNYCiT": {
+          "type": "message",
+          "settings": {
+            "text": "BLACK FRIDAY OFFER: 50% OFF",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_B8Neyk"
+        "message_B8Neyk",
+        "message_TNYCiT"
       ],
       "settings": {
         "enable_sticky": false,
