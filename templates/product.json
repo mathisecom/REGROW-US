@@ -737,6 +737,7 @@
         "item_D6N4hr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_57.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
