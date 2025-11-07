@@ -279,6 +279,7 @@
         "image_b4bPHL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Titre_90_copie3_1.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
