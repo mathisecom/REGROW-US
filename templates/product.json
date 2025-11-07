@@ -747,6 +747,19 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "item_BePaDR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_-_2025-11-07T141713.694.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
@@ -754,7 +767,8 @@
         "item_Rqcqty",
         "item_mBxfAq",
         "item_CEirki",
-        "item_D6N4hr"
+        "item_D6N4hr",
+        "item_BePaDR"
       ],
       "name": "Image link blocks",
       "settings": {
