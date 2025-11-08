@@ -279,7 +279,7 @@
         "image_b4bPHL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Titre_90_copie3_1.jpg",
+            "image": "shopify://shop_images/Titre_-_2025-11-08T112813.310.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -471,6 +471,7 @@
         "image_ePjp8B": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ezgif.com-optimize_55.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -582,6 +583,7 @@
         "image_hN7wqL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Titre_90_copie3_1.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
