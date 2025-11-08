@@ -8,103 +8,746 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {
-    "slideshow": {
-      "type": "slideshow",
-      "blocks": {
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "numbers",
-        "transition_type": "fade_with_text",
-        "autoplay": true,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
-      }
-    },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    }
-  },
   "order": [
     "slideshow",
-    "faq"
-  ]
+    "multi_column_9eBj4g",
+    "press_kkMjbk",
+    "scrolling_text_aY866B",
+    "media_with_text_zeQcEU",
+    "multi_column_hzHXDp",
+    "media_with_text_JBcihk",
+    "rich_text_hXVkCA",
+    "image_link_blocks_GDdzUY",
+    "testimonials_EnWTWp",
+    "faq_erAwk6"
+  ],
+  "sections": {
+    "faq_erAwk6": {
+      "block_order": [
+        "item_eF6QxV",
+        "item_zY3XrH",
+        "item_UViqpP",
+        "item_CTLhUM",
+        "item_PYwNpL",
+        "item_TCAcap",
+        "item_yKkJEe",
+        "item_FW4TRN",
+        "item_XBAcgX",
+        "item_xzqEBt",
+        "item_irQb4A",
+        "item_TzURxk",
+        "item_VjR4ht",
+        "item_EpgkUT",
+        "item_iYqRbU",
+        "item_dqtdVj"
+      ],
+      "blocks": {
+        "item_CTLhUM": {
+          "settings": {
+            "content": "<p>Once DHT levels are reduced, the scalp detoxified, and new hair grown, it can take several months or even years for DHT to accumulate again.</p>",
+            "title": "Will I lose my results if I stop using it?"
+          },
+          "type": "item"
+        },
+        "item_EpgkUT": {
+          "settings": {
+            "content": "<p>Yes, the 24K gold ultra-fine needles provide a painless application, and the formula is free from harsh chemicals, making it safe for sensitive scalps.</p>",
+            "title": "Can I use it on a sensitive scalp?"
+          },
+          "type": "item"
+        },
+        "item_FW4TRN": {
+          "settings": {
+            "content": "<p>Yes, the AlphaInfuse system works on all hair types and textures.</p>",
+            "title": "Is it suitable for all hair types?"
+          },
+          "type": "item"
+        },
+        "item_PYwNpL": {
+          "settings": {
+            "content": "<p>Application is quick: less than a minute. Simply apply the product to the targeted areas and let it absorb.</p>",
+            "title": "Can you tell me more about the application process?"
+          },
+          "type": "item"
+        },
+        "item_TCAcap": {
+          "settings": {
+            "content": "<p>Totally painless, with no marks or redness. The ultra-fine 0.5 mm needles ensure safe and gentle use.</p>",
+            "title": "Is it safe to use?"
+          },
+          "type": "item"
+        },
+        "item_TzURxk": {
+          "disabled": true,
+          "settings": {
+            "content": "<p>Our micro-infusion technology ensures maximum absorption, while a powerful blend of licorice root, black sesame, and ginger extracts blocks DHT, detoxifies the scalp, and reactivates dormant follicles. That’s why our product works where others fail.</p>",
+            "title": "What is the needle size?"
+          },
+          "type": "item"
+        },
+        "item_UViqpP": {
+          "settings": {
+            "content": "<p>For best results, use once per week. This allows the roots time to respond and regenerate between sessions. Our highly concentrated formula, combined with the micro-infusion system, delivers ingredients directly to the roots — where real hair regrowth occurs.</p>",
+            "title": "How often should I use it?"
+          },
+          "type": "item"
+        },
+        "item_VjR4ht": {
+          "settings": {
+            "content": "<p>The ultra-fine needles of the AlphaInfuse system measure 0.5 mm. They are designed to be gentle and painless while ensuring effective serum delivery to the scalp.</p>",
+            "title": "What is the needle size?"
+          },
+          "type": "item"
+        },
+        "item_XBAcgX": {
+          "settings": {
+            "content": "<p>Yes, it is formulated only with natural, high-quality ingredients, without synthetic chemicals.</p>",
+            "title": "Is it free of chemicals?"
+          },
+          "type": "item"
+        },
+        "item_dqtdVj": {
+          "settings": {
+            "content": "<p><strong>Ingredients: </strong>Menthol, Peppermint Oil (Mentha Piperita), Panax Ginseng Root Extract, Anemarrhena Asphodeloides Root Extract, Ginger Root Extract (Zingiber Officinale), Rosemary Oil, Black Sesame Extract, Licorice Root Extract, Angelica Polymorpha Sinensis Root Extract, Citric Acid, Platycladus Orientalis Leaf Extract, Sophora Flavescens Extract, Biota Orientalis Leaf Extract, Polygonum Multiflorum Root Extract, Eclipta Prostrata Extract, Cinchona Pubescens Bark Extract</p>",
+            "title": "Ingredients"
+          },
+          "type": "item"
+        },
+        "item_eF6QxV": {
+          "settings": {
+            "content": "<p>Many users notice a significant improvement in hair texture and growth after 3–5 weeks of regular use. Results may vary depending on the individual.</p>",
+            "title": "When will I start to see results?"
+          },
+          "type": "item"
+        },
+        "item_iYqRbU": {
+          "settings": {
+            "content": "<p>Yes, it can be used alongside your regular hair care products.</p>",
+            "title": "Can I incorporate it into my current hair care routine?"
+          },
+          "type": "item"
+        },
+        "item_irQb4A": {
+          "settings": {
+            "content": "<p>Most products fail because they only deposit ingredients on the scalp surface, where they don’t act. Real regrowth requires delivering the formula deep to the roots, where hair loss starts.</p>",
+            "title": "I’ve tried many products without success. What makes yours different?"
+          },
+          "type": "item"
+        },
+        "item_xzqEBt": {
+          "settings": {
+            "content": "<p>No, the sensation feels like a gentle tap of a fingernail on the skin — completely painless.</p>",
+            "title": "Is it painful?"
+          },
+          "type": "item"
+        },
+        "item_yKkJEe": {
+          "disabled": true,
+          "settings": {
+            "content": "<p>Absolutely! The system is non-invasive, painless, and dermatologist-tested for safe at-home use.</p>",
+            "title": "Any question?"
+          },
+          "type": "item"
+        },
+        "item_zY3XrH": {
+          "settings": {
+            "content": "<p>No, the product does not leave marks or redness. The needles are ultra-fine (0.5 mm), designed to be gentle and painless while ensuring effective serum delivery to the scalp.</p>",
+            "title": "Do the micro-needles leave marks?"
+          },
+          "type": "item"
+        }
+      },
+      "name": "FAQ",
+      "settings": {
+        "accordion_background": "",
+        "accordion_text_color": "",
+        "answer_time": "Average answer time: 24h",
+        "background": "",
+        "background_gradient": "",
+        "button_background": "",
+        "button_text": "",
+        "button_text_color": "",
+        "button_url": "",
+        "content": "",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "subheading": "",
+        "support_hours": "",
+        "team_avatar_width": 160,
+        "text_color": "",
+        "text_position": "center",
+        "title": "Frequently Asked Questions"
+      },
+      "type": "faq"
+    },
+    "image_link_blocks_GDdzUY": {
+      "block_order": [
+        "item_46pFFE",
+        "item_Rfi8JL",
+        "item_rQmBhH",
+        "item_3mCcTa",
+        "item_qzNDcK",
+        "item_tAyzRa"
+      ],
+      "blocks": {
+        "item_3mCcTa": {
+          "settings": {
+            "background": "",
+            "image": "shopify://shop_images/Sous-titre_56.jpg",
+            "link_text": "",
+            "link_url": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "item_46pFFE": {
+          "settings": {
+            "background": "",
+            "image": "shopify://shop_images/Sous-titre_52.jpg",
+            "link_text": "",
+            "link_url": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "item_Rfi8JL": {
+          "settings": {
+            "background": "",
+            "image": "shopify://shop_images/Sous-titre_54.jpg",
+            "link_text": "",
+            "link_url": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "item_qzNDcK": {
+          "settings": {
+            "background": "",
+            "image": "shopify://shop_images/Titre_-_2025-11-07T141713.694.jpg",
+            "link_text": "",
+            "link_url": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "item_rQmBhH": {
+          "settings": {
+            "background": "",
+            "image": "shopify://shop_images/Sous-titre_55.jpg",
+            "link_text": "",
+            "link_url": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "item_tAyzRa": {
+          "settings": {
+            "background": "",
+            "image": "shopify://shop_images/Sous-titre_57.jpg",
+            "link_text": "",
+            "link_url": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        }
+      },
+      "name": "Image link blocks",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "block_size": "medium",
+        "content": "",
+        "full_width": false,
+        "heading_color": "",
+        "heading_gradient": "",
+        "link_text": "",
+        "link_url": "",
+        "subheading": "",
+        "text_color": "",
+        "title": ""
+      },
+      "type": "image-link-blocks"
+    },
+    "media_with_text_JBcihk": {
+      "block_order": [
+        "image_QNgN9w"
+      ],
+      "blocks": {
+        "image_QNgN9w": {
+          "settings": {
+            "background": "#1b2c31",
+            "background_gradient": "",
+            "button_background": "#ffffff",
+            "button_text_color": "#1b2c31",
+            "content": "<p>Hair care professionals trust ReGrow™ for its clinically proven effectiveness.</p>",
+            "icon": "none",
+            "icon_width": 48,
+            "image": "shopify://shop_images/gempages_586978430721983033-1e43dd67-3f67-47ca-bec1-2d0bc8c31f0c.webp",
+            "link_text": "DISCOVER",
+            "link_url": "shopify://products/regrow-infuse",
+            "media_position": "end",
+            "media_width": 50,
+            "subheading": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "text_position": "place-self-center text-center",
+            "title": "Recommended by Experts"
+          },
+          "type": "image"
+        }
+      },
+      "name": "Media with text",
+      "settings": {
+        "alternate_media_position": false,
+        "full_width": false,
+        "spacing": "none"
+      },
+      "type": "media-with-text"
+    },
+    "media_with_text_zeQcEU": {
+      "block_order": [
+        "image_9BrAMq"
+      ],
+      "blocks": {
+        "image_9BrAMq": {
+          "settings": {
+            "background": "#ffffff",
+            "background_gradient": "",
+            "button_background": "",
+            "button_text_color": "",
+            "content": "<p><strong>Don’t let hair loss steal your confidence.</strong></p><p>Thanks to Micro-Infusion technology, ReGrow™ targets the root of the problem by neutralizing DHT and stimulating natural regrowth.</p><p><strong>Result: </strong>thicker, stronger, and visibly younger-looking hair in just a few weeks.</p>",
+            "icon": "none",
+            "icon_width": 48,
+            "image": "shopify://shop_images/Titre_-_2025-11-08T112813.310.jpg",
+            "link_text": "DISCOVER",
+            "link_url": "shopify://products/regrow-infuse",
+            "media_position": "start",
+            "media_width": 50,
+            "subheading": "",
+            "text_color": "#1b2c31",
+            "text_gradient": "",
+            "text_position": "place-self-center text-center",
+            "title": "Regain thick, healthy, and vibrant hair"
+          },
+          "type": "image"
+        }
+      },
+      "name": "Media with text",
+      "settings": {
+        "alternate_media_position": false,
+        "full_width": true,
+        "spacing": "none"
+      },
+      "type": "media-with-text"
+    },
+    "multi_column_9eBj4g": {
+      "block_order": [
+        "item_BdNETk",
+        "item_aVXQxM",
+        "item_rqG3tF",
+        "item_Pm669W"
+      ],
+      "blocks": {
+        "item_BdNETk": {
+          "settings": {
+            "column_size": "4",
+            "content": "",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/Untitled_design_-_2025-03-20T161232.693.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": ""
+          },
+          "type": "item"
+        },
+        "item_Pm669W": {
+          "settings": {
+            "column_size": "4",
+            "content": "",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/Titre_39.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": ""
+          },
+          "type": "item"
+        },
+        "item_aVXQxM": {
+          "settings": {
+            "column_size": "4",
+            "content": "",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/Titre_38.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": ""
+          },
+          "type": "item"
+        },
+        "item_rqG3tF": {
+          "settings": {
+            "column_size": "4",
+            "content": "",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/Titre_37.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": ""
+          },
+          "type": "item"
+        }
+      },
+      "name": "Multi-column",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "content": "",
+        "full_width": true,
+        "gap": "medium",
+        "stack_on_mobile": false,
+        "subheading": "Over 6,000 Men Conquered by REGROW",
+        "text_alignment": "center",
+        "text_color": "",
+        "title": "The Most Impressive Transformations from Our Customers"
+      },
+      "type": "multi-column"
+    },
+    "multi_column_hzHXDp": {
+      "block_order": [
+        "item_hTfKwW",
+        "item_zqi4ap",
+        "item_6cjfCd",
+        "item_3D7bQR"
+      ],
+      "blocks": {
+        "item_3D7bQR": {
+          "settings": {
+            "column_size": "4",
+            "content": "<p>A natural alternative to Minoxidil, effective against androgenetic alopecia.</p>",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/Titre_54.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": "Rosemary Leaf Extract"
+          },
+          "type": "item"
+        },
+        "item_6cjfCd": {
+          "settings": {
+            "column_size": "4",
+            "content": "<p>Nourish the scalp and improve circulation for stronger, thicker hair.</p>",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/Titre_52.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": "Peppermint Oil & Ginger Extract"
+          },
+          "type": "item"
+        },
+        "item_hTfKwW": {
+          "settings": {
+            "column_size": "4",
+            "content": "<p>Stimulates follicle regeneration and prolongs the hair growth cycle, even outperforming Minoxidil.</p>",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/Titre_50.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": "Eclipta Prostrata Extract"
+          },
+          "type": "item"
+        },
+        "item_zqi4ap": {
+          "settings": {
+            "column_size": "4",
+            "content": "<p>Eliminates DHT to promote the growth of healthy hair.</p>",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/Titre_51.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": "Panax Ginseng"
+          },
+          "type": "item"
+        }
+      },
+      "name": "Multi-column",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "content": "",
+        "full_width": true,
+        "gap": "medium",
+        "stack_on_mobile": false,
+        "subheading": "Formulated with High-Quality Ingredients",
+        "text_alignment": "center",
+        "text_color": "",
+        "title": "Active Ingredients"
+      },
+      "type": "multi-column"
+    },
+    "press_kkMjbk": {
+      "block_order": [
+        "quote_33dPFk",
+        "quote_mmnwGg",
+        "quote_Pidq8r",
+        "quote_qhWzTr"
+      ],
+      "blocks": {
+        "quote_33dPFk": {
+          "settings": {
+            "author": "David R.",
+            "content": "After 3 months, my hairline has thickened and the thinning areas have become almost invisible. Today, my hair is denser and I feel younger.",
+            "logo_width": 100,
+            "rating": 4,
+            "show_rating": true
+          },
+          "type": "quote"
+        },
+        "quote_Pidq8r": {
+          "settings": {
+            "author": "Ethan P.",
+            "content": "I was skeptical at first, but after 3 months, my hair has truly gained density. I’m no longer embarrassed to style it.",
+            "logo_width": 100,
+            "rating": 4,
+            "show_rating": true
+          },
+          "type": "quote"
+        },
+        "quote_mmnwGg": {
+          "settings": {
+            "author": "James A.",
+            "content": "My thinning temples have noticeably filled in. People around me say I look healthier and more confident.",
+            "logo_width": 100,
+            "rating": 4,
+            "show_rating": true
+          },
+          "type": "quote"
+        },
+        "quote_qhWzTr": {
+          "settings": {
+            "author": "Dylan J.",
+            "content": "My hair volume gradually returned. Today, my hair looks thicker, shinier, and I feel rejuvenated.",
+            "logo_width": 100,
+            "rating": 4,
+            "show_rating": true
+          },
+          "type": "quote"
+        }
+      },
+      "name": "Press",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "content_size": "medium",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": "",
+        "text_color": ""
+      },
+      "type": "press"
+    },
+    "rich_text_hXVkCA": {
+      "block_order": [
+        "subheading_PBHeDT",
+        "heading_hBqHhM"
+      ],
+      "blocks": {
+        "heading_hBqHhM": {
+          "settings": {
+            "gradient": "",
+            "heading_tag": "h2",
+            "text": "Over 6,000 Men Convinced",
+            "text_color": ""
+          },
+          "type": "heading"
+        },
+        "subheading_PBHeDT": {
+          "settings": {
+            "text": "They Testify to Its Effectiveness"
+          },
+          "type": "subheading"
+        }
+      },
+      "name": "Rich text",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "content_width": "small",
+        "full_width": true,
+        "text_color": "",
+        "text_position": "center"
+      },
+      "type": "rich-text"
+    },
+    "scrolling_text_aY866B": {
+      "name": "Scrolling text",
+      "settings": {
+        "background": "#1b2c31",
+        "background_gradient": "",
+        "full_width": true,
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "text": "The Fast Solution for Hair Loss.",
+        "text_color": "#ffffff",
+        "text_gradient": "",
+        "text_size": "xsmall",
+        "text_style": "fill"
+      },
+      "type": "scrolling-text"
+    },
+    "slideshow": {
+      "block_order": [
+        "image_a7WGj8"
+      ],
+      "blocks": {
+        "image_a7WGj8": {
+          "settings": {
+            "background": "",
+            "background_gradient": "",
+            "button_background": "#ffffff",
+            "button_link": "shopify://products/regrow-infuse",
+            "button_text": "",
+            "button_text_color": "#000000",
+            "content_max_width": 780,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "heading_tag": "h0",
+            "image": "shopify://shop_images/BANNER_PC_17.jpg",
+            "mobile_image": "shopify://shop_images/BANNER_MOBILE_55.jpg",
+            "mobile_text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "subheading": "",
+            "text_color": "#ffffff",
+            "title": ""
+          },
+          "type": "image"
+        }
+      },
+      "settings": {
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)",
+        "controls_type": "numbers",
+        "cycle_speed": 6,
+        "full_width": true,
+        "image_size": "auto",
+        "show_initial_transition": false,
+        "transition_type": "fade_with_text"
+      },
+      "type": "slideshow"
+    },
+    "testimonials_EnWTWp": {
+      "block_order": [
+        "testimonial_UrnYNM",
+        "testimonial_YyW6F6",
+        "testimonial_w6T7Xh",
+        "testimonial_F6CXY9",
+        "testimonial_MiDzAB"
+      ],
+      "blocks": {
+        "testimonial_F6CXY9": {
+          "settings": {
+            "author": "Ryan Mitchell",
+            "content": "<p>My thinning areas are gradually filling in, and my hair has regained shine and vitality. I never expected such results.</p>",
+            "rating": 4,
+            "round_avatar": true,
+            "show_rating": true,
+            "title": "A change I no longer expected"
+          },
+          "type": "testimonial"
+        },
+        "testimonial_MiDzAB": {
+          "settings": {
+            "author": "Ethan P.",
+            "content": "<p>My hair is stronger, denser, and visibly younger. I highly recommend this treatment without hesitation.</p>",
+            "rating": 4,
+            "round_avatar": true,
+            "show_rating": true,
+            "title": "The results are incredible!"
+          },
+          "type": "testimonial"
+        },
+        "testimonial_UrnYNM": {
+          "settings": {
+            "author": "John S.",
+            "content": "<p>My fine, fragile hair has transformed into thick, healthy hair. It’s the first time in years that I feel confident with my hair.</p>",
+            "rating": 4,
+            "round_avatar": true,
+            "show_rating": true,
+            "title": "Highly recommend this treatment"
+          },
+          "type": "testimonial"
+        },
+        "testimonial_YyW6F6": {
+          "settings": {
+            "author": "David Reynolds",
+            "content": "<p>I noticed a real difference from the first month. My hair falls out much less and grows faster—I’m really impressed!</p>",
+            "rating": 5,
+            "round_avatar": true,
+            "show_rating": true,
+            "title": "I’m amazed!"
+          },
+          "type": "testimonial"
+        },
+        "testimonial_w6T7Xh": {
+          "settings": {
+            "author": "James Anderson",
+            "content": "<p>After only 6 weeks, my hair is much thicker and stronger. I finally have hair full of vitality!</p>",
+            "rating": 4,
+            "round_avatar": true,
+            "show_rating": true,
+            "title": "Finally hair full of life!"
+          },
+          "type": "testimonial"
+        }
+      },
+      "name": "Testimonials",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "content": "",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "link_text": "",
+        "link_url": "",
+        "stack_testimonials": false,
+        "subheading": "",
+        "testimonial_card_background": "#f2f8f9",
+        "testimonial_card_text_color": "#1b2c31",
+        "text_color": "",
+        "title": ""
+      },
+      "type": "testimonials"
+    }
+  }
 }
