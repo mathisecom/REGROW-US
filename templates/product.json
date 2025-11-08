@@ -328,6 +328,7 @@
         "item_mJixX9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_21.png",
             "column_size": "3",
             "title": "Apply the Serum",
             "heading_tag": "h4",
