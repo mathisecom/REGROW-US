@@ -54,6 +54,11 @@
         "type": "shopify://apps/rapi/blocks/app-embed/99617c17-a32b-4e70-a883-7a155610d032",
         "disabled": false,
         "settings": {}
+      },
+      "17198465164502963513": {
+        "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
