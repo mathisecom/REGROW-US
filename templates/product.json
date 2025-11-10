@@ -904,13 +904,6 @@
             "content": "<p>Once DHT levels are reduced, the scalp detoxified, and new hair grown, it can take several months or even years for DHT to accumulate again.</p>"
           }
         },
-        "item_J7zeM9": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
-        },
         "item_xVF4FE": {
           "type": "item",
           "settings": {
@@ -987,7 +980,6 @@
         "item_Ax6Ha9",
         "item_ciqQP8",
         "item_eVwVfh",
-        "item_J7zeM9",
         "item_xVF4FE",
         "item_WfzhpN",
         "item_dKUbrt",
